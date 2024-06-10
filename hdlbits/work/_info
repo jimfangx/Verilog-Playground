@@ -1,0 +1,50 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2023.4 2023.10, Oct  9 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/jimfang/Verilog-Playground/hdlbits
+T_opt
+!s110 1718012368
+Vd^Mm`aJN9CSbf[QLa_0UB2
+04 10 4 work top_module fast 0
+=1-000ae431a4f1-6666c9d0-6ae6d-a5610
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U1 
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2023.4;77
+R1
+vtop_module
+2/home/jimfang/Verilog-Playground/hdlbits/output_zero.v
+!s110 1718014724
+!i10b 1
+!s100 6AECTbc[z`GUcBj4>Vn_W3
+Ie]DJB?X3@X06A^RBoGL5O3
+R1
+w1718014712
+8/home/jimfang/Verilog-Playground/hdlbits/output_zero.v
+F/home/jimfang/Verilog-Playground/hdlbits/output_zero.v
+!i122 2
+L0 2 7
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2023.4;77
+r1
+!s85 0
+31
+!s108 1718014724.000000
+!s107 /home/jimfang/Verilog-Playground/hdlbits/output_zero.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/jimfang/Verilog-Playground/hdlbits/output_zero.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2

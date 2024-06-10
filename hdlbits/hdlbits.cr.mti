@@ -1,0 +1,15 @@
+/home/jimfang/Verilog-Playground/hdlbits/output_zero.v {1 {vlog -work work -vopt -stats=none /home/jimfang/Verilog-Playground/hdlbits/output_zero.v
+Questa Intel Starter FPGA Edition-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+-- Compiling module top_module
+
+Top level modules:
+	top_module
+
+} {} {}} /home/jimfang/Verilog-Playground/hdlbits/getting_started.v {1 {vlog -work work -vopt -stats=none /home/jimfang/Verilog-Playground/hdlbits/getting_started.v
+Questa Intel Starter FPGA Edition-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+-- Compiling module top_module
+
+Top level modules:
+	top_module
+
+} {} {}}
