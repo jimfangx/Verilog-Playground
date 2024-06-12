@@ -39,3 +39,9 @@ https://www.reddit.com/r/FPGA/comments/suc289/how_can_i_properly_learn_system_ve
 ## getting modelsim to work:
 https://www.youtube.com/watch?v=9mpRF6bAY1g&t=2s
 https://www.youtube.com/watch?v=eOWBF4kNM8w&t=352s
+
+## Verilog levels:
+* ![alt text](./assets/ddpgw.png)
+(https://inst.eecs.berkeley.edu/~cs150/fa07/Calendar.php) lab lecture 1 ppt
+https://stackoverflow.com/questions/29815188/difference-between-behavioral-rtl-and-gate-level
+https://electronics.stackexchange.com/questions/69022/rtl-vs-hdl-whats-the-difference
