@@ -29,8 +29,8 @@ https://fpgasoftware.intel.com/
 ## resources to learn:
 
 https://hdlbits.01xz.net/wiki/Main_Page
-https://www.chipverify.com/systemverilog/systemverilog-tutorial
 
+https://www.chipverify.com/systemverilog/systemverilog-tutorial
 https://verificationguide.com/systemverilog/systemverilog-assertions-sva/
 
 https://www.reddit.com/r/FPGA/comments/suc289/how_can_i_properly_learn_system_verilog/
