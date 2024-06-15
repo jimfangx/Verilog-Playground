@@ -10,6 +10,9 @@ Procedural blocking assignment: (x = y;). Can only be used inside a procedure.
 Procedural non-blocking assignment: (x <= y;). Can only be used inside a procedure.
 * convention: use when in a clocked always (always (posedge clk)) block
 
+* additional procedure blocks & how to avoid race around conditions when using multiple procedural blocks:
+https://www.theoctetinstitute.com/content/verilog/procedural-blocks/
+
 ## Operators
 * Tenary operator with assign statements: `assign out = (condition) ? x : y;`
 
@@ -102,3 +105,4 @@ end
 * Example: https://www.chipverify.com/verification/directed-verification
 * `#10 // this would then mean 10 timescales`
     * defining a timescale at the top of the file: https://www.chipverify.com/verilog/verilog-timescale
+* additional resource: https://syssec.ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/education/Digitaltechnik_14/14_Verilog_Testbenches.pdf
